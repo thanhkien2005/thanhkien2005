@@ -98,7 +98,7 @@
   <a href="https://www.instagram.com/tklover__/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram" title="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/" target="blank">
+  <a href="https://www.linkedin.com/in/thanh-ki%C3%AAn-614774355/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="mailto:thanhkienu08@gmail.com" target="top">
