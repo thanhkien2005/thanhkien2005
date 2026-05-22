@@ -112,7 +112,7 @@
 <br>
 
 <a href="https://github.com/thanhkien2005/VietNam-Finance-Sentiment/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=VietNam-Finance-Sentiment&theme=radical" />
 </a>    
 <a href="https://github.com/thanhkien2005/RAG-Agent-Finance/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=RAG-Agent-Finance&theme=merko" />
@@ -129,7 +129,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=Python_DataScience_Project&theme=onedark" />
 </a>    
 <a href="https://github.com/thanhkien2005/ComputerVision_ImageProcessing_Project/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=ComputerVision_ImageProcessing_Project theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=ComputerVision_ImageProcessing_Project&theme=cobalt" />
 </a>
 
 <a href="https://github.com/thanhkien2005/PatternReg_Lab/">
