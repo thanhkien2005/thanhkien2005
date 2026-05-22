@@ -1,25 +1,13 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║         Thanh Kiên (thanhkien2005) — GitHub Profile README       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <h1 align="center">Hi 👋, I'm Thanh Kiên</h1>
 <h3 align="center">AI Engineer aspirant · Applied Math @ HCMUS</h3>
 
 <br>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 1: Earth banner (custom self-contained SVG with 7 tech icons) -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 <a href="#" target="_blank">
-  <img src="svg/earth.svg" width="1200" alt="Thanh Kien — AI Engineer banner: spinning Earth surrounded by Claude, Gemini, Colab, JavaScript, VS Code, Node.js, Python" />
+  <img src="svg/thanhkien.svg" width="1200" alt="thanhkien" />
 </a>
 
 <br>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 2: Technologies and Tools (aggregated from 7 projects)        -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -99,10 +87,6 @@
 
 <br>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 3: Where to find me                                            -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 
@@ -124,37 +108,30 @@
 </div>
 
 <br>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 4: Pinned Projects (vietnh1009 style, colorful themes)        -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📌 Pinned Projects 📌</h2>
+══════════════════════════════════════════════════════════════════ -->
 <br>
 
-<a href="https://github.com/thanhkien2005/project1/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhkien2005&repo=project1&theme=radical" />
+<a href="https://github.com/vietnh1009/QuickDraw/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
 </a>    
-<a href="https://github.com/thanhkien2005/RAG-Agent-Finance/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhkien2005&repo=RAG-Agent-Finance&theme=merko" />
+<a href="https://github.com/vietnh1009/ASCII-generator/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
 </a>
 
-<a href="https://github.com/thanhkien2005/Project3/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhkien2005&repo=Project3&theme=gruvbox" />
+<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
 </a>    
-<a href="https://github.com/thanhkien2005/PatternReg_MidTerm/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhkien2005&repo=PatternReg_MidTerm&theme=dark" />
+<a href="https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
 
-<a href="https://github.com/thanhkien2005/Python_DataScience_Project/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhkien2005&repo=Python_DataScience_Project&theme=onedark" />
+<a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
 </a>    
-<a href="https://github.com/thanhkien2005/ComputerVision_ImageProcessing_Project/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhkien2005&repo=ComputerVision_ImageProcessing_Project&theme=cobalt" />
+<a href="https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
 </a>
 
-<a href="https://github.com/thanhkien2005/PatternReg_Lab/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhkien2005&repo=PatternReg_Lab&theme=synthwave" />
-</a>
-
-<br>
+<a href="https://github.com/vietnh1009/AirGesture/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=AirGesture&theme=synthwave" />
+</a>    
