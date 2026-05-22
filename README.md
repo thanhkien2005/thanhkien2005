@@ -135,3 +135,7 @@
 <a href="https://github.com/thanhkien2005/PatternReg_Lab/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=PatternReg_Lab&theme=synthwave" />
 </a>    
+
+<a href="https://github.com/thanhkien2005/thanhkien2005/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=thanhkien2005&theme=highcontrast" />
+</a>
