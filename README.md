@@ -111,27 +111,27 @@
 ══════════════════════════════════════════════════════════════════ -->
 <br>
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+<a href="https://github.com/thanhkien2005/VietNam-Finance-Sentiment/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=QuickDraw&theme=radical" />
 </a>    
-<a href="https://github.com/vietnh1009/ASCII-generator/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+<a href="https://github.com/thanhkien2005/RAG-Agent-Finance/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=RAG-Agent-Finance&theme=merko" />
 </a>
 
-<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+<a href="https://github.com/thanhkien2005/VietNam-Forecasting-Ticket-VN30/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=VietNam-Forecasting-Ticket-VN30&theme=gruvbox" />
 </a>    
-<a href="https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+<a href="https://github.com/thanhkien2005/PatternReg_MidTerm/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=PatternReg_MidTerm&theme=dark" />
 </a>
 
-<a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+<a href="https://github.com/thanhkien2005/Python_DataScience_Project/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=Python_DataScience_Project&theme=onedark" />
 </a>    
-<a href="https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+<a href="https://github.com/thanhkien2005/ComputerVision_ImageProcessing_Project/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=ComputerVision_ImageProcessing_Project theme=cobalt" />
 </a>
 
-<a href="https://github.com/vietnh1009/AirGesture/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=AirGesture&theme=synthwave" />
+<a href="https://github.com/thanhkien2005/PatternReg_Lab/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhkien2005&repo=PatternReg_Lab&theme=synthwave" />
 </a>    
